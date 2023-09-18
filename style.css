@@ -3,3 +3,47 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: ;
+  align-items: center;
+  height: 100vh;
+}
+img{
+  max max-width: 100%;
+  max-height: 100%
+}
+.nav-container {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-list {
+  list-style: none; 
+  padding: 10px;
+  margin: 0; 
+}
+
+.nav-list li {
+  margin: 0 10
+}
+
+.nav-list li a {
+  text-decoration: none;
+}
+image caption{
+  font-size: 10px;
+  text-align: center;
+}
+.text-block{
+  width: 400px;
+  text-align: center;
+}
+.horizontal-details {
+  display:inline inline-block;
+  vertical-align: top;
+  margin:0;
+}
